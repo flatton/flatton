@@ -11,6 +11,7 @@
 
 ## 🌱 I’m currently learning ...
 - Neural Differential Equations
+- 数理最適化 mathematical optimization
 
 ## 📫 How to reach me ...
 - [X](https://twitter.com/flaton_11)
