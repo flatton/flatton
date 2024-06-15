@@ -17,6 +17,6 @@
 - [X](https://twitter.com/flaton_11)
 
 ## Biography
-- ~2022: Ito Lab., Tohoku University (bachelor's degree)
-- ~2024: Ito Lab., Tohoku University (master's degree)
+- ~2022: Tohoku University (Bachelor of Engineering)
+- ~2024: Tohoku University (Master of Engineering)
 - Currently
