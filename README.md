@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 📎 Blogs
-- [under writing...]()
+- [欠損, 非同期, 不規則な時系列データのモデリング - Neural CDEs の理論の導入部と実装](https://tech-blog.abeja.asia/entry/timeseries-neural-cde-202407)
 
 ## 🥼 Study
 - Voice Conversion (ASR+TTS)
