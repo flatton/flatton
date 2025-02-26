@@ -10,8 +10,9 @@
 - Dialogue & Chatbot
 - Parsing & Analyzing document files and texts
 
-## 🔥 I'm strongly interested in
+## 🔥 I'm interested in
 - Computer-Mediated Mommunication (CMC)
+- Subjective annotaion
 
 ## 🌱 I’m currently learning ...
 - Neural Differential Equations
