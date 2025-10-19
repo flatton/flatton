@@ -14,14 +14,6 @@
 - Dialogue & Chatbot
 - Parsing & Analyzing document files and texts
 
-## 🔥 I'm interested in
-- Computer-Mediated Mommunication (CMC)
-- Subjective annotaion
-
-## 🌱 I’m currently learning ...
-- Neural Differential Equations
-- Neural Tangent Kernel
-
 ## 📫 How to reach me ...
 - [X](https://twitter.com/flaton_11)
 
