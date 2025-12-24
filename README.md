@@ -10,6 +10,7 @@
 - [位置インデックス情報を操作して LLM に長文と錯覚させたらどうなるか？](https://tech-blog.abeja.asia/entry/longcontext-llm-pose-202509)
 - [様々なコンテキスト長における LLM の Self-Attention の Query と Key の分析](https://tech-blog.abeja.asia/entry/longcontext-llm-massive-values-202509)
 - [ロングコンテキストLLMの汚染された長文コンテキストへの耐性](https://tech-blog.abeja.asia/entry/advent-2025-day17)
+- [Software Design 2026年1月号 LLMのしくみ 中身を知って最大限の力を引き出せるようになろう！ - 第2章：学習プロセスを知ろう LLMはどのように賢くなるのか](https://gihyo.jp/magazine/SD/archive/2026/202601)
 
 ## 🥼 Studies & Skills
 - Offensive Language Detection & Application for Social Media
