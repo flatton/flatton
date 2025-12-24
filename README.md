@@ -34,7 +34,7 @@ Data Scientist @ ABEJA
 - Document parsing & analysis (PDF, DOCX, etc.)
 - ASR + TTS (Voice Conversion)
 
-## Biography
+## 📜 Biography
 - ~2022: Tohoku University (Bachelor of Engineering)
 - ~2024: Tohoku University (Master of Engineering)
 - Currently: ABEJA Inc. (Data Scientist)
