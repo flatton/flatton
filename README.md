@@ -26,18 +26,14 @@ Data Scientist @ ABEJA
 - [欠損, 非同期, 不規則な時系列データのモデリング - Neural CDEs の理論の導入部と実装](https://tech-blog.abeja.asia/entry/timeseries-neural-cde-202407)
 - [ソーシャルメディア上の発話の攻撃性推定と会話補助](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P2-10.pdf), NLP2024 P2-10
 
-## 🥼 Research Interests
-- Long-context Large Language Models
-- Representation & Attention Analysis
-- Offensive Language Detection (Japanese)
+## 🛠️ Research & Engineering Experience
+- Large-scale LLM training & inference (multi-GPU / multi-node)
+- Long-context LLM evaluation design
+- Representation & Attention Analysis in LLMs
 - Unsupervised Keyphrase Extraction
-
-## 🛠 Engineering & Skills
-- Large-scale LLM training & evaluation (multi-GPU / multi-node)
-- Long-context evaluation design & benchmarking
-- NLP / Dialogue Systems
 - Document parsing & analysis (PDF, DOCX, etc.)
-- ASR + TTS (Voice Conversion)
+- Offensive Language Detection (Japanese)
+- Voice Conversion (ASR + TTS)
 
 ## 📜 Biography
 - ~2022: Tohoku University (Bachelor of Engineering)
