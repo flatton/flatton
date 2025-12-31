@@ -1,3 +1,10 @@
+<!-- Stats -->
+![Stats](https://github-readme-stats.vercel.app/api?username=flatton&show_icons=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=DC2363&bg_color=262260)
+
+<!-- Langs -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flatton&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=262260)
+
+
 # Hi there 👋 I'm Tomoki Fujihara
 Data Scientist @ ABEJA  
 
