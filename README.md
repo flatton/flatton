@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-sandy-seven-58.vercel.app/api?username=flatton&show_icons=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=DC2363&bg_color=262260" />
+  <img align="left" src="https://github-readme-stats-sandy-seven-58.vercel.app/api?username=flatton&show_icons=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=DC2363&bg_color=262260&exclude_repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-sandy-seven-58.vercel.app/api/top-langs/?username=flatton&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=262260" />
+  <img align="left" src="https://github-readme-stats-sandy-seven-58.vercel.app/api/top-langs/?username=flatton&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=262260&exclude_repo=github-readme-stats" />
 </a>
 
 <br clear="left"/>
