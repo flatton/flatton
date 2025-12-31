@@ -5,7 +5,10 @@
   <img align="left" src="https://github-readme-stats-sandy-seven-58.vercel.app/api/top-langs/?username=flatton&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=262260" />
 </a>
 
+
+
 # Hi there 👋 I'm Tomoki Fujihara
+
 Data Scientist @ ABEJA  
 
 ## 🔗 Profiles
