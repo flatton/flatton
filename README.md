@@ -12,6 +12,9 @@ Data Scientist @ ABEJA
 - [Google Scholar - Tomoki Fujihara](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=hwJFBiYAAAAJ&gmla=AElLoL1goKyV3ZfB7icCXQpMgygD5AG1jd-dCW1JhdjudAEAaq-XLISSP-0UE0Nve1YYtkxworRyakCN2tVi--2bYIg__AZUYiylnsr-4OhuBz70okfG4Q)
 
 ## ✍️ Publications
+### 2026
+- [大規模化するLLMの学習・開発を支える技術](https://gihyo.jp/magazine/SD/archive/2026/202602), Software Design 2026年2月号, 特別企画「LLMのしくみ」発展編（1月号第1特集フォローアップ）
+
 ### 2025
 - [学習プロセスを知ろう LLMはどのように賢くなるのか](https://gihyo.jp/magazine/SD/archive/2026/202601), Software Design 2026年1月号, LLMのしくみ 中身を知って最大限の力を引き出せるようになろう！ 第2章
 - [ロングコンテキストLLMの汚染された長文コンテキストへの耐性](https://tech-blog.abeja.asia/entry/advent-2025-day17)
