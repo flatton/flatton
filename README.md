@@ -13,6 +13,7 @@ Data Scientist @ ABEJA
 
 ## ✍️ Publications
 ### 2026
+- [新卒でデータサイエンティストとして入社して2年が経ちました｜テクプレたちの日常 by ABEJA](https://note.com/abeja/n/n700b2de7c560)
 - [GENIAC3期のLLM開発で使用したロングコンテキスト評価のベンチマーク公開](https://tech-blog.abeja.asia/entry/geniac3-longcontext-benchmark-pr-202603)
 - [大規模化するLLMの学習・開発を支える技術](https://gihyo.jp/magazine/SD/archive/2026/202602), Software Design 2026年2月号, 特別企画「LLMのしくみ」発展編（1月号第1特集フォローアップ）
 
