@@ -1,7 +1,3 @@
-![Stats](https://github-readme-stats-sandy-seven-58.vercel.app/api?username=flatton&show_icons=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=DC2363&bg_color=262260&exclude_repo=github-readme-stats)
-
-<br clear="left"/>
-
 # Hi there 👋 I'm Tomoki Fujihara
 
 Data Scientist @ ABEJA  
