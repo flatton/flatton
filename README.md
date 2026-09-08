@@ -32,7 +32,7 @@ Data Scientist @ ABEJA
 ## 💼 Selected Projects — 案件・開発実績
 
 - プライバシーファーストAI：産業特化LLMの開発
-  - 産業特化LLMの開発リード。継続事前学習・SFT・RL・評価まで、開発全般を担当。
+  - 産業特化LLMの開発リードとして、学習・評価を幅広く担当。
 - GENIAC第3期：エージェント向け基盤モデルの開発
   - 日本語・ロングコンテキスト性能の強化に向け、Qwen3-14B、gpt-oss-20b / 120bの継続事前学習を担当。
   - ロングコンテキスト性能を評価する[ベンチマーク](https://github.com/abeja-inc/longcontext-evaluation)を構築。
