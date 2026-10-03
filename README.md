@@ -22,16 +22,23 @@ Data Scientist @ ABEJA
 - [位置インデックス情報を操作して LLM に長文と錯覚させたらどうなるか？](https://tech-blog.abeja.asia/entry/longcontext-llm-pose-202509)
 - [H200 GPU x 8基で Qwen2.5-VL-72B-Instruct を使った OCR を試してみる](https://tech-blog.abeja.asia/entry/vlm-ocr-202507)
 - [日本語向け教師なしキーフレーズ抽出の検証](https://tech-blog.abeja.asia/entry/nlp2025-keyphase-extration-202504)
-- [埋め込みモデルベースの教師なしキーフレーズ抽出における長文に対する抽出精度の改善](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q10-24.pdf), NLP2025 Q10-24
+- [埋め込みモデルベースの教師なしキーフレーズ抽出における長文に対する抽出精度の改善](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q10-24.pdf), NLP2025
 - [ABEJA 論文読み会: Evolutionary Optimization of Model Merging Recipes](https://speakerdeck.com/flatton/20250502-abeja-lun-wen-du-mihui-suraido)
 
 ### 2024
 - [Embedding Model を用いたキーフレーズ抽出の検証といろんな Embedding Model の比較](https://tech-blog.abeja.asia/entry/advent-2024-day11)
 - [欠損, 非同期, 不規則な時系列データのモデリング - Neural CDEs の理論の導入部と実装](https://tech-blog.abeja.asia/entry/timeseries-neural-cde-202407)
-- [ソーシャルメディア上の発話の攻撃性推定と会話補助](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P2-10.pdf), NLP2024 P2-10
+- [ソーシャルメディア上の発話の攻撃性推定と会話補助](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P2-10.pdf), NLP2024
+- [Estimation of Offensiveness of Posts on Social Media and Its Application to a Conversation Assistance System](https://dl.acm.org/doi/full/10.1145/3711542.3711565), NLPIR2024
+
+### 2023
+- [微細な共感性を調整した対話文による対話応答生成モデルの学習と評価](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Xin444/_article/-char/ja), JSAI2023
+- [ソーシャルメディアにおける発話の攻撃性推定に向けたデータセット構築](https://www.ieice.org/publications/conference-FIT-DVDs/FIT2023/data/html/program/pdf/E-004.pdf), FIT2023
+
+### 2022
+- [音素ポステリオグラムに基づくノンパラレル声質変換の性能分析](https://asj-spcom.acoustics.jp/2021/11/22/2022%E5%B9%B41%E6%9C%88%E9%9F%B3%E5%A3%B0%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/), 日本音響学会音声研究会, Vol. 2, No. 1, pp. 37-42
 
 ## 💼 Selected Projects — 案件・開発実績
-
 - プライバシーファーストAI：産業特化LLMの開発
   - 産業特化LLM開発プロジェクトの開発リードとして、開発方針・スケジュールの設計から実際のモデル開発（継続事前学習 / SFT / RL、評価の実装・メンテナンス等）を幅広く担当。
 - GENIAC第3期：エージェント向け基盤モデルの開発
