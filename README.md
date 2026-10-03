@@ -9,6 +9,7 @@ Data Scientist @ ABEJA
 
 ## ✍️ Publications - 論文・記事・執筆実績
 ### 2026
+- [NVIDIA Nemotron 3 Nano 30B A3B Base に対する汎用・金融特化SFT](https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609)
 - [新卒でデータサイエンティストとして入社して2年が経ちました｜テクプレたちの日常 by ABEJA](https://note.com/abeja/n/n700b2de7c560)
 - [GENIAC3期のLLM開発で使用したロングコンテキスト評価のベンチマーク公開](https://tech-blog.abeja.asia/entry/geniac3-longcontext-benchmark-pr-202603)
   - https://github.com/abeja-inc/longcontext-evaluation
@@ -32,7 +33,7 @@ Data Scientist @ ABEJA
 ## 💼 Selected Projects — 案件・開発実績
 
 - プライバシーファーストAI：産業特化LLMの開発
-  - 産業特化LLMの開発リードとして、学習・評価を幅広く担当。
+  - 産業特化LLM開発プロジェクトの開発リードとして、開発方針・スケジュールの設計から実際のモデル開発（継続事前学習 / SFT / RL、評価の実装・メンテナンス等）を幅広く担当。
 - GENIAC第3期：エージェント向け基盤モデルの開発
   - 日本語・ロングコンテキスト性能の強化に向け、Qwen3-14B、gpt-oss-20b / 120bの継続事前学習を担当。
   - ロングコンテキスト性能を評価する[ベンチマーク](https://github.com/abeja-inc/longcontext-evaluation)を構築。
